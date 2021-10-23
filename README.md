@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Saleh Amin
+- 💼 I'm Chartered accountant and Tax agent
 - 👀 I’m Currently learning python
-- 💞️ I love writing code and reading about it
-- 📫 How to reach me ...WWW.SALEHNOTES.COM
+- 💖 I love writing code and reading about it
+- 📍  How to reach me ...WWW.SALEHNOTES.COM
 
 <!---
 thisissalehamin/thisissalehamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
