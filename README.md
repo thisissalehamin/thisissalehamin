@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saleh Amin
-- 💼 I'm Chartered accountant and Tax agent
+- 💼 I'm Founder,CEO.& Auditor at Muhasba
 - 👀 I’m Currently learning python
 - 💖 I love writing code and reading about it
 - 📍  How to reach me ...WWW.SALEHNOTES.COM
